@@ -1,4 +1,4 @@
-# Personal-Finance-Tracker
+ # Personal-Finance-Tracker
 ## Project Objective 
 To build a comprehensive Personal Finance Tracker dashboard in Power BI that visualizes monthly expenses, spending patterns, and consumption trends.
 
@@ -7,10 +7,7 @@ To build a comprehensive Personal Finance Tracker dashboard in Power BI that vis
 
 
 
-
-
--Dashboard Interaction  <a href = https://github.com/orca17/Personal-Finance-Tracker/blob/main/Dashboard%20Interaction.png”>View Dashboard</a>
-
+- Dashboard Interaction <a href = https://github.com/orca17/Personal-Finance-Tracker/blob/main/Dashboard%20Interaction.png”>View Dashboard</a>
 
 ## Process
 - Gathered and structured personal finance data including date, location, category, subcategory, quantity, expenses, and payment mode.
