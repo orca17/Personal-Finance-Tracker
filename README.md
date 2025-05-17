@@ -5,7 +5,9 @@ To build a comprehensive Personal Finance Tracker dashboard in Power BI that vis
 ## Dataset Used
 -<a href="https://github.com/orca17/Personal-Finance-Tracker/blob/main/PFT.xlsx">Dataset</a>
 
+
 -Dashboard Interaction  <a href = ”https://github.com/orca17/Personal-Finance-Tracker/blob/main/Dashboard%20Interaction.png”>View Dashboard</a>
+
 
 ## Process
 - Gathered and structured personal finance data including date, location, category, subcategory, quantity, expenses, and payment mode.
