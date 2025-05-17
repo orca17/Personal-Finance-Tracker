@@ -6,7 +6,7 @@ To build a comprehensive Personal Finance Tracker dashboard in Power BI that vis
 -<a href="https://github.com/orca17/Personal-Finance-Tracker/blob/main/PFT.xlsx">Dataset</a>
 
 
--Dashboard Interaction  <a href = ”https://github.com/orca17/Personal-Finance-Tracker/blob/main/Dashboard%20Interaction.png”>View Dashboard</a>
+- Dashboard Interaction <a href = ”https://github.com/orca17/Personal-Finance-Tracker/blob/main/Dashboard%20Interaction.png”>View Dashboard</a>
 
 
 ## Process
